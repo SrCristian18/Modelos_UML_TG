@@ -14249,7 +14249,7 @@
 													"width": 111,
 													"height": 39,
 													"underline": true,
-													"text": "Reporte de hallazgos del incidente",
+													"text": "Informe de hallazgos del incidente",
 													"wordWrap": true
 												},
 												{
@@ -15079,9 +15079,9 @@
 													"left": 245,
 													"top": 183,
 													"width": 119,
-													"height": 26,
+													"height": 39,
 													"underline": true,
-													"text": "Reporte de atención del incidente",
+													"text": "Informe de atención del incidente",
 													"wordWrap": true
 												},
 												{
@@ -15117,7 +15117,7 @@
 											"left": 240,
 											"top": 176,
 											"width": 129,
-											"height": 38,
+											"height": 51,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGcnDR7K1VlU0s="
 											},
@@ -16042,7 +16042,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGaFJcETEc3U8M="
 							},
-							"name": "Reporte de hallazgos del incidente"
+							"name": "Informe de hallazgos del incidente"
 						},
 						{
 							"_type": "UMLObject",
@@ -16050,7 +16050,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGaFJcETEc3U8M="
 							},
-							"name": "Reporte de atención del incidente"
+							"name": "Informe de atención del incidente"
 						}
 					]
 				}
