@@ -3234,7 +3234,7 @@
 															"font": "Arial;13;0",
 															"parentStyle": true,
 															"left": 32,
-															"top": -456,
+															"top": -472,
 															"height": 13
 														},
 														{
@@ -3246,10 +3246,10 @@
 															"font": "Arial;13;1",
 															"parentStyle": true,
 															"left": 757,
-															"top": 431,
+															"top": 423,
 															"width": 103,
-															"height": 26,
-															"text": "Informar estado del incidente",
+															"height": 39,
+															"text": "Reportar estado de atención del incidente",
 															"wordWrap": true
 														},
 														{
@@ -3262,7 +3262,7 @@
 															"font": "Arial;13;0",
 															"parentStyle": true,
 															"left": 32,
-															"top": -456,
+															"top": -472,
 															"width": 117.0380859375,
 															"height": 13,
 															"text": "(from Cai de policía)"
@@ -3277,7 +3277,7 @@
 															"font": "Arial;13;0",
 															"parentStyle": true,
 															"left": 32,
-															"top": -456,
+															"top": -472,
 															"horizontalAlignment": 1,
 															"wordWrap": true
 														}
@@ -3285,9 +3285,9 @@
 													"font": "Arial;13;0",
 													"parentStyle": true,
 													"left": 752,
-													"top": 424,
+													"top": 416,
 													"width": 113,
-													"height": 38,
+													"height": 51,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGbkHs/Hco2GAU="
 													},
@@ -3309,9 +3309,9 @@
 											"parentStyle": false,
 											"containerChangeable": true,
 											"left": 752,
-											"top": 424,
+											"top": 416,
 											"width": 112,
-											"height": 54,
+											"height": 67,
 											"nameCompartment": {
 												"$ref": "AAAAAAGbkHs/Hco1mTs="
 											},
@@ -3339,8 +3339,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 703,
-													"top": 460,
+													"left": 704,
+													"top": 458,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 15,
@@ -3361,8 +3361,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 703,
-													"top": 475,
+													"left": 704,
+													"top": 473,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -3383,8 +3383,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 704,
-													"top": 430,
+													"left": 703,
+													"top": 429,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -3403,7 +3403,7 @@
 												"$ref": "AAAAAAGbkHs/Hco0FHo="
 											},
 											"lineStyle": 1,
-											"points": "751:451;657:451",
+											"points": "751:450;657:451",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGbkH2RNNCd4DM="
@@ -3697,7 +3697,7 @@
 												"$ref": "AAAAAAGbkH3N6tDFjpQ="
 											},
 											"lineStyle": 1,
-											"points": "1025:417;1056:416;1056:232;1071:233",
+											"points": "1025:419;1056:416;1056:232;1071:233",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGbkH5FitD/ggs="
@@ -3767,8 +3767,8 @@
 															"left": 917,
 															"top": 399,
 															"width": 103,
-															"height": 26,
-															"text": "Informar estado del incidente",
+															"height": 39,
+															"text": "Reportar estado de atención del incidente",
 															"wordWrap": true
 														},
 														{
@@ -3806,7 +3806,7 @@
 													"left": 912,
 													"top": 392,
 													"width": 113,
-													"height": 38,
+													"height": 51,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGbkH3N69DHvMU="
 													},
@@ -3830,7 +3830,7 @@
 											"left": 912,
 											"top": 392,
 											"width": 112,
-											"height": 54,
+											"height": 67,
 											"nameCompartment": {
 												"$ref": "AAAAAAGbkH3N69DGjA0="
 											},
@@ -3984,7 +3984,7 @@
 												"$ref": "AAAAAAGbkHs/Hco0FHo="
 											},
 											"lineStyle": 1,
-											"points": "808:479;808:519"
+											"points": "808:484;808:519"
 										},
 										{
 											"_type": "UMLControlNodeView",
@@ -4226,7 +4226,7 @@
 													"font": "Arial;13;0",
 													"parentStyle": false,
 													"left": 814,
-													"top": 381,
+													"top": 377,
 													"width": 16.6181640625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -4250,7 +4250,7 @@
 													"font": "Arial;13;0",
 													"parentStyle": false,
 													"left": 837,
-													"top": 381,
+													"top": 377,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -4272,7 +4272,7 @@
 													"font": "Arial;13;0",
 													"parentStyle": false,
 													"left": 793,
-													"top": 382,
+													"top": 378,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -4291,7 +4291,7 @@
 												"$ref": "AAAAAAGcch4OQ0rRTuw="
 											},
 											"lineStyle": 1,
-											"points": "808:353;808:423",
+											"points": "808:353;808:415",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGcciA+MEsrIn4="
@@ -4347,7 +4347,7 @@
 												"$ref": "AAAAAAGbkH3N6tDFjpQ="
 											},
 											"lineStyle": 1,
-											"points": "967:447;965:519"
+											"points": "967:460;965:519"
 										},
 										{
 											"_type": "UMLControlFlowView",
@@ -4764,6 +4764,113 @@
 											"propertyLabel": {
 												"$ref": "AAAAAAGcm0jdsJEsrcU="
 											}
+										},
+										{
+											"_type": "UMLActionView",
+											"_id": "AAAAAAGcnFueBFKwKK4=",
+											"_parent": {
+												"$ref": "AAAAAAGaFJqjWk2ec8E="
+											},
+											"model": {
+												"$ref": "AAAAAAGcnFueBFKu/iQ="
+											},
+											"subViews": [
+												{
+													"_type": "UMLNameCompartmentView",
+													"_id": "AAAAAAGcnFueBFKxK28=",
+													"_parent": {
+														"$ref": "AAAAAAGcnFueBFKwKK4="
+													},
+													"model": {
+														"$ref": "AAAAAAGcnFueBFKu/iQ="
+													},
+													"subViews": [
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAGcnFueBFKy0dI=",
+															"_parent": {
+																"$ref": "AAAAAAGcnFueBFKxK28="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"parentStyle": true,
+															"left": -96,
+															"height": 13
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAGcnFueBFKzmTo=",
+															"_parent": {
+																"$ref": "AAAAAAGcnFueBFKxK28="
+															},
+															"font": "Arial;13;1",
+															"parentStyle": true,
+															"left": 101,
+															"top": 479,
+															"width": 119,
+															"height": 26,
+															"text": "Informar estado del incidente",
+															"wordWrap": true
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAGcnFueBFK0TQ4=",
+															"_parent": {
+																"$ref": "AAAAAAGcnFueBFKxK28="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"parentStyle": true,
+															"left": -96,
+															"width": 84.51904296875,
+															"height": 13,
+															"text": "(from General)"
+														},
+														{
+															"_type": "LabelView",
+															"_id": "AAAAAAGcnFueBFK1OII=",
+															"_parent": {
+																"$ref": "AAAAAAGcnFueBFKxK28="
+															},
+															"visible": false,
+															"font": "Arial;13;0",
+															"parentStyle": true,
+															"left": -96,
+															"horizontalAlignment": 1,
+															"wordWrap": true
+														}
+													],
+													"font": "Arial;13;0",
+													"parentStyle": true,
+													"left": 96,
+													"top": 472,
+													"width": 129,
+													"height": 38,
+													"stereotypeLabel": {
+														"$ref": "AAAAAAGcnFueBFKy0dI="
+													},
+													"nameLabel": {
+														"$ref": "AAAAAAGcnFueBFKzmTo="
+													},
+													"namespaceLabel": {
+														"$ref": "AAAAAAGcnFueBFK0TQ4="
+													},
+													"propertyLabel": {
+														"$ref": "AAAAAAGcnFueBFK1OII="
+													}
+												}
+											],
+											"font": "Arial;13;0",
+											"parentStyle": false,
+											"containerChangeable": true,
+											"left": 96,
+											"top": 472,
+											"width": 128,
+											"height": 54,
+											"nameCompartment": {
+												"$ref": "AAAAAAGcnFueBFKxK28="
+											},
+											"wordWrap": true
 										}
 									]
 								}
@@ -4784,6 +4891,14 @@
 										"$ref": "AAAAAAGaFJqjWk2djiE="
 									},
 									"name": "ActivityFinalNode1"
+								},
+								{
+									"_type": "UMLAction",
+									"_id": "AAAAAAGcnFueBFKu/iQ=",
+									"_parent": {
+										"$ref": "AAAAAAGaFJqjWk2djiE="
+									},
+									"name": "Informar estado del incidente"
 								}
 							],
 							"edges": [
@@ -5313,7 +5428,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbUYfS9Gjj94Y="
 											},
-											"name": "Informar estado del incidente"
+											"name": "Reportar estado de atención del incidente"
 										},
 										{
 											"_type": "UMLAction",
@@ -5321,7 +5436,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbUYfS9Gjj94Y="
 											},
-											"name": "Informar estado del incidente"
+											"name": "Reportar estado de atención del incidente"
 										},
 										{
 											"_type": "UMLActivityFinalNode",
