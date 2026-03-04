@@ -9,7 +9,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Modelo de negocio",
+			"name": "Modelo de Negocio",
 			"ownedElements": [
 				{
 					"_type": "UMLPackage",
@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJOiHkb8Ai0="
 					},
-					"name": "Procesos de negocio",
+					"name": "Procesos de Negocio",
 					"ownedElements": [
 						{
 							"_type": "UMLActivity",
@@ -5964,7 +5964,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJOiHkb8Ai0="
 					},
-					"name": "Casos de uso",
+					"name": "Casos de Uso",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCaseDiagram",
@@ -5972,7 +5972,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGaFJab3EczKPg="
 							},
-							"name": "Casos de uso del mundo real",
+							"name": "Casos de Uso del Mundo Real",
 							"ownedViews": [
 								{
 									"_type": "UMLUseCaseSubjectView",
@@ -10791,7 +10791,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJOiHkb8Ai0="
 					},
-					"name": "Modelo de dominio",
+					"name": "Modelo de Dominio",
 					"ownedElements": [
 						{
 							"_type": "UMLObjectDiagram",
@@ -10799,7 +10799,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGaFJcETEc3U8M="
 							},
-							"name": "Modelo de dominio",
+							"name": "Modelo de Dominio",
 							"ownedViews": [
 								{
 									"_type": "UMLObjectView",
@@ -10861,9 +10861,9 @@
 													"parentStyle": true,
 													"left": 1056,
 													"top": 224,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -10992,9 +10992,9 @@
 													"parentStyle": true,
 													"left": -320,
 													"top": 320,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -11122,9 +11122,9 @@
 													"parentStyle": true,
 													"left": -224,
 													"top": 112,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -11251,9 +11251,9 @@
 													"parentStyle": true,
 													"left": 848,
 													"top": 336,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -11412,9 +11412,9 @@
 													"parentStyle": true,
 													"left": 608,
 													"top": -80,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -12281,9 +12281,9 @@
 													"parentStyle": true,
 													"left": 80,
 													"top": -96,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -13888,9 +13888,9 @@
 													"parentStyle": true,
 													"left": -144,
 													"top": -320,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -14265,9 +14265,9 @@
 													"parentStyle": true,
 													"left": -112,
 													"top": -112,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -15096,9 +15096,9 @@
 													"font": "Arial;13;0",
 													"parentStyle": true,
 													"left": -96,
-													"width": 148.1162109375,
+													"width": 150.2744140625,
 													"height": 13,
-													"text": "(from Modelo de dominio)"
+													"text": "(from Modelo de Dominio)"
 												},
 												{
 													"_type": "LabelView",
@@ -16072,7 +16072,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJP6rEcAjzg="
 					},
-					"name": "Casos de uso",
+					"name": "Casos de Uso",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",
@@ -20903,7 +20903,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Arquitectura del sistema",
+			"name": "Arquitectura del Sistema",
 			"ownedElements": [
 				{
 					"_type": "UMLPackage",
@@ -20911,7 +20911,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJRED0cJkNo="
 					},
-					"name": "Vista de escenarios",
+					"name": "Vista de Escenarios",
 					"ownedElements": [
 						{
 							"_type": "UMLUseCaseDiagram",
@@ -20919,7 +20919,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGaFJSWpEcO8i8="
 							},
-							"name": "Casos de uso",
+							"name": "Casos de Uso",
 							"ownedViews": [
 								{
 									"_type": "UMLUseCaseSubjectView",
@@ -25448,7 +25448,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJRED0cJkNo="
 					},
-					"name": "Vista lógica",
+					"name": "Vista Lógica",
 					"ownedElements": [
 						{
 							"_type": "UMLPackage",
@@ -25483,6 +25483,24 @@
 										"$ref": "AAAAAAGaFJxvQE2wZus="
 									},
 									"name": "D_Clases"
+								},
+								{
+									"_type": "ERDDataModel",
+									"_id": "AAAAAAGct0FlhjveJaI=",
+									"_parent": {
+										"$ref": "AAAAAAGaFJxvQE2wZus="
+									},
+									"name": "Modelo BD",
+									"ownedElements": [
+										{
+											"_type": "ERDDiagram",
+											"_id": "AAAAAAGct0FlhjvfCz4=",
+											"_parent": {
+												"$ref": "AAAAAAGct0FlhjveJaI="
+											},
+											"name": "D_Entidad Relacion"
+										}
+									]
 								}
 							]
 						}
@@ -25494,7 +25512,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJRED0cJkNo="
 					},
-					"name": "Vista de procesos",
+					"name": "Vista de Procesos",
 					"ownedElements": [
 						{
 							"_type": "UMLCollaboration",
@@ -25586,7 +25604,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJRED0cJkNo="
 					},
-					"name": "Vista de desarrollo",
+					"name": "Vista de Desarrollo",
 					"ownedElements": [
 						{
 							"_type": "UMLPackageDiagram",
@@ -25604,7 +25622,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGaFJRED0cJkNo="
 					},
-					"name": "Vista física",
+					"name": "Vista Física",
 					"ownedElements": [
 						{
 							"_type": "UMLDeploymentDiagram",
